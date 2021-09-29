@@ -1,0 +1,23 @@
+{
+  "name": "information",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "cowsay": "^1.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VoliDyrus/information.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VoliDyrus/information/issues"
+  },
+  "homepage": "https://github.com/VoliDyrus/information#readme"
+}
